@@ -1,0 +1,7 @@
+/.idea
+/node_modules
+*.log
+.DS_Store
+/docs-build
+/.vscode
+/docs/.vuepress/dist
